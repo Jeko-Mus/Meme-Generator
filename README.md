@@ -9,5 +9,6 @@ This project uses image annotations to create a meme
 
 #### example output image
 
-![image](https://user-images.githubusercontent.com/57463439/163814196-1a9aea02-22b1-49df-91c7-8f78981d51aa.png)
+![image](https://user-images.githubusercontent.com/57463439/163814319-42683156-1ddd-4890-901c-c24f08e5790f.png)
+
 
