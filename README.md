@@ -16,3 +16,4 @@ aswell as the use of matplotlib and numpy libraries
 ![image](https://user-images.githubusercontent.com/57463439/163814319-42683156-1ddd-4890-901c-c24f08e5790f.png)
 
 
+python version 3.8
